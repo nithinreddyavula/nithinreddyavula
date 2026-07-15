@@ -1,161 +1,125 @@
-\#
+<div align="center">
 
-::: {align="center"}
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Avula+Nithin+Kumar+Reddy;Software+Engineer;AI+%26+GenAI+Engineer;Backend+Engineer;Building+Production-Ready+Systems" />`{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C6FF&height=260&section=header&text=Avula%20Nithin%20Kumar%20Reddy&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Systems&descAlignY=55&descAlign=50&descColor=E0E0FF" width="100%"/>
 
-### AI • GenAI • Backend Engineering • Distributed Systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F5FF&background=0D1117&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%A1+I+ship+working+systems%2C+not+just+code.;%F0%9F%94%A5+Redis+%7C+Spring+Boot+%7C+FastAPI+%7C+LangGraph;%F0%9F%9A%80+96%25+latency+cut%3A+6000ms+%E2%86%92+211ms;%F0%9F%92%BB+Hunting+for+SDE-1+%2F+Backend+roles" alt="Typing SVG" />
+</a>
 
-```{=html}
-<p>
-```
-`<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>`{=html}
-`<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-:::
+<br/>
 
-------------------------------------------------------------------------
+<a href="https://www.linkedin.com/in/avula-nithin-kumar-reddy-0b0641323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=000000"/></a>
+<a href="mailto:nithinreddy34261@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=000000"/></a>
+<a href="https://leetcode.com/nithinreddy045"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&labelColor=000000"/></a>
+<a href="tel:+919676145402"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&labelColor=000000"/></a>
 
-# 🚀 About Me
+<br/><br/>
 
-``` text
-Turning ideas into intelligent software.
-```
+<img src="https://komarev.com/ghpvc/?username=nithinreddyavula&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
 
-I'm a **Software Engineer** passionate about building **AI-powered
-applications** and **scalable backend systems**.
+</div>
 
--   🤖 Generative AI, RAG, LLM Applications
--   ☕ Java, Spring Boot, Spring Security
--   🐍 Python, FastAPI, LangGraph
--   🗄 PostgreSQL • MySQL • Redis
--   🐳 Docker • AWS • Git
--   ⚡ Clean Architecture • Distributed Systems • REST APIs
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C6FF&height=3&width=100%25" width="100%"/>
 
-------------------------------------------------------------------------
+<h2 align="center">🧭 About Me</h2>
 
-# 🛠 Tech Stack
+<div align="center">
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,docker,redis,postgres,mysql,git,github,aws,linux,maven,idea,vscode"/>`{=html}
-
-```{=html}
-</p>
+```yaml
+name: Avula Nithin Kumar Reddy
+role: Backend Engineer (2026 B.Tech CSE Graduate)
+location: Bengaluru, India
+focus: ⚡ Real-time, high-throughput, distributed backend systems
+looking_for: 🎯 SDE-1 / Backend Engineer / AI Engineer roles & internships
+fun_fact: 🧩 200+ LeetCode problems solved while shipping 2 live production-deployed systems
 ```
 
-------------------------------------------------------------------------
+</div>
 
-# 🌟 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8E2DE2&height=3&width=100%25" width="100%"/>
 
-  -----------------------------------------------------------------------
-  🚀 Project                         Description
-  ---------------------------------- ------------------------------------
-  🎟 **BookMyShow Backend**           Distributed seat locking, Redis
-                                     caching, JWT authentication,
-                                     scalable booking APIs built with
-                                     Spring Boot.
+<h2 align="center">🛠️ Tech Stack</h2>
 
-  📚 **Student Exam Planner**        AI-powered RAG application using
-                                     FastAPI, LangGraph and ChromaDB for
-                                     intelligent document-based question
-                                     answering.
+<div align="center">
 
-  💰 **Expense Tracker**             Spring Boot + MySQL application for
-                                     expense management with secure REST
-                                     APIs.
-  -----------------------------------------------------------------------
+**Languages**
+`Java` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `SQL`
 
-------------------------------------------------------------------------
+**Frameworks**
+`Spring Boot 3` &nbsp;·&nbsp; `Spring MVC` &nbsp;·&nbsp; `Spring Data JPA` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `LangGraph`
 
-# 📊 GitHub Analytics
+**Databases & Caching**
+`MySQL` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `ChromaDB`
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+**Infrastructure**
+`AWS EC2` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Docker Compose` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `GitHub` &nbsp;·&nbsp; `Postman`
 
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>`{=html}
+**AI / ML**
+`RAG Pipelines` &nbsp;·&nbsp; `LLM Integration (OpenRouter)` &nbsp;·&nbsp; `Hugging Face` &nbsp;·&nbsp; `RAGAS Evaluation`
 
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+**CS Fundamentals**
+`Distributed Systems` &nbsp;·&nbsp; `Microservices` &nbsp;·&nbsp; `REST API Design` &nbsp;·&nbsp; `OOP` &nbsp;·&nbsp; `DBMS` &nbsp;·&nbsp; `OS` &nbsp;·&nbsp; `Agile`
 
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C6FF&height=3&width=100%25" width="100%"/>
 
-# 🏆 Achievements
+<h2 align="center">🚀 Featured Projects</h2>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>`{=html}
+### 🎟️ [BookMyShow Clone](https://github.com/nithinreddyavula) — Distributed Ticket Booking System
+`Java` `Spring Boot 3` `MySQL` `Redis` `JWT` `Docker` `AWS EC2`
 
-```{=html}
-</p>
-```
+- ⚡ Redis-based **distributed seat locking** — zero double-booking under concurrent load
+- 🔐 Full JWT + RBAC pipeline — stateless & horizontally scalable
+- ☁️ Live on **AWS EC2** with Docker — real deployment, not localhost
+- 🧪 Postman-tested REST APIs with explicit race-condition simulation
 
-------------------------------------------------------------------------
+<br/>
 
-# 📈 Contribution Graph
+### 🤖 [RAG AI Backend — Exam Planner](https://github.com/nithinreddyavula) — Two-Service AI Microservices System
+`Python` `FastAPI` `LangGraph` `ChromaDB` `Spring Boot` `Redis`
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>`{=html}
+- 🧠 Stateful **LangGraph agent**: retrieve → grade_relevance → generate
+- 📊 RAGAS — Answer Relevancy **0.93** | Faithfulness **0.75** | Context Precision **0.83**
+- 🚄 Latency: **6000ms → 211ms** (96% reduction) via Redis caching
+- ☁️ 4-container stack, live on AWS EC2
 
-```{=html}
-</p>
-```
+<br/>
 
-------------------------------------------------------------------------
+### 🔗 [URL Shortener](https://github.com/nithinreddyavula) — High-Throughput Redirect Service
+`Java` `Spring Boot 3` `MySQL` `Redis` `Docker`
 
-# 🐍 Contribution Snake
+- ⚡ Redis Cache-Aside — **<10ms** cache hit vs 80ms DB read (8x throughput)
+- 🔢 Base62 short-code generation
+- 📈 Redirect, expiry & analytics tracking
 
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8E2DE2&height=3&width=100%25" width="100%"/>
 
-```{=html}
-</p>
-```
+<h2 align="center">🎯 Current Goals</h2>
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🤝 Connect With Me
+| 🎯 Goal | 📌 Status |
+|---|---|
+| Land an SDE-1 / Backend Engineer role (8+ LPA) | 🔍 **Actively interviewing** |
+| Cross 300+ LeetCode problems | 🧩 200+ solved and climbing |
 
-```{=html}
-<p align="center">
-```
-`<a href="https://linkedin.com/in/YOUR_LINKEDIN">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
+</div>
 
-`<a href="mailto:YOUR_EMAIL">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C6FF&height=3&width=100%25" width="100%"/>
 
-`<a href="https://github.com/YOUR_USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+<h2 align="center">📫 Let's Connect</h2>
 
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+**I'm actively looking for Backend / AI Engineer opportunities in Bengaluru and beyond.**
+Reach out — I reply fast and I ship faster. 🚀
 
-::: {align="center"}
-### 💡 *"Build products that solve real problems. Keep learning. Keep shipping."*
-:::
+<a href="https://www.linkedin.com/in/avula-nithin-kumar-reddy-0b0641323"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge"/></a>
+<a href="mailto:nithinreddy34261@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4A00E0,100:8E2DE2&height=150&section=footer" width="100%"/>
+
+</div>
